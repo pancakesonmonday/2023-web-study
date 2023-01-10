@@ -5,12 +5,8 @@
 > install git
 
 `$ sudo apt install git`
-
 or
-
 `$ sudo apt install -y git`
-
-
 
 > check version
 
